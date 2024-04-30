@@ -1,0 +1,5 @@
+/service-2/node_modules
+node_modules
+/service-1/.venv
+.venv
+__pycache__
